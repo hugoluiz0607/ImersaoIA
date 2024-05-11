@@ -20,7 +20,6 @@ Versão Alpha 0.1 - Funcionalidades
 
 Implementações futuras - Funcionalidades
 *   Multiplas análises em paralalelo.
-*   Aplicativo mobile para rodar em background coletando fotos com autorização do usuário durante uma viagem. A coleta poderá ser recompensada, sendo ideal para motoristas de aplicativo que já utilizam o celuar e rodam durante todo dia.
 *   Integração com bases de dados governamentais para integração de dados sobre roubos / situção do veículo.
 *   Notificação automática de autoridades em caso de veículo roubado detectado.
 *   Notificação educativa automática ao cidadão que estiver circulando sem estar em dia com pagamento dos impostos.
